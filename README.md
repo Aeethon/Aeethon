@@ -6,7 +6,7 @@
 
 Hello, I'm a fullstack programmer! I am part of the Space Squad team of the company Ethical Club's, as a mentor. Enjoy it!! o/ :rocket: :purple_heart:
 
-![Altsaber github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Altsaber github stats](https://github-readme-stats.vercel.app/api?username=Aeethon&show_icons=true&theme=dracula)
 
 
 
