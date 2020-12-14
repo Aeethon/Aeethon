@@ -17,7 +17,7 @@ Hello, I'm a fullstack programmer! I am part of the Space Squad team of the comp
 
 ### Repo :gem:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeethon&repo=https://github.com/Aeethon/githubtheme)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeethon&repo=https://github.com/Aeethon/githubtheme)](https://github.com/Aeethon/githubtheme)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeethon&repo=https://github.com/Aeethon/githubtheme)](https://github.com/Aeethon/githubtheme)
 
