@@ -15,13 +15,6 @@ Hello, I'm a fullstack programmer! I am part of the Space Squad team of the comp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeethon&layout=Demo&theme=dracula)](https://github.com/Aeethon)
 
-### Repo :gem:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeethon&repo=https://github.com/Aeethon/githubtheme)](https://github.com/Aeethon/githubtheme)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeethon&repo=https://github.com/Aeethon/githubtheme)](https://github.com/Aeethon/githubtheme)
-
-
 
 
 
