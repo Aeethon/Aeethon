@@ -13,11 +13,10 @@ Hello, I'm a fullstack programmer! I am part of the Space Squad team of the comp
 
 ### Most used languages :gem:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeethon&layout=Demo)](https://github.com/Aeethon/githubtheme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeethon&layout=Demo&theme=dracula)](https://github.com/Aeethon/githubtheme)
 
 ### Repo :gem:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aeethon&show_icons=true)
 
 
 
