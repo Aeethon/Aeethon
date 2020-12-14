@@ -1,16 +1,24 @@
-### Hi there 👋
+## I'm Miguel Arlindo :rocket:
 
-<!--
-**Aeethon/Aeethon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Aeethon)](https://github.com/Aeethon)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-arlindo-55329b1b4/)](https://www.linkedin.com/in/miguel-arlindo-55329b1b4/)
+[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/miguelahr)](https://app.rocketseat.com.br/me/miguelahr)
 
-Here are some ideas to get you started:
+Hello, I'm a fullstack programmer! I am part of the Space Squad team of the company Ethical Club's, as a mentor. Enjoy it!! o/ :rocket: :purple_heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Altsaber github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+
+
+
+### Most used languages :gem:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=danieldfc&hide=java&langs_count=5&layout=compact)](https://github.com/danieldfc)
+
+
+
+
+
+
+
+
