@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Aeethon)](https://github.com/Aeethon)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelarlindo/)](https://www.linkedin.com/in/miguelarlindo//)
-[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/miguelahr)](https://app.rocketseat.com.br/me/miguelahr)
 
 Hello, I'm a  Front-end Developer programmer! I am part of the Space Squad team of the company Ethical Club's, as a mentor. Enjoy it!! o/ :rocket: :purple_heart:
 
