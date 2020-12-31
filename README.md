@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-arlindo-55329b1b4/)](https://www.linkedin.com/in/miguel-arlindo-55329b1b4/)
 [![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/miguelahr)](https://app.rocketseat.com.br/me/miguelahr)
 
-Hello, I'm a fullstack programmer! I am part of the Space Squad team of the company Ethical Club's, as a mentor. Enjoy it!! o/ :rocket: :purple_heart:
+Hello, I'm a  Front-end Developer programmer! I am part of the Space Squad team of the company Ethical Club's, as a mentor. Enjoy it!! o/ :rocket: :purple_heart:
 
 
 ![Altsaber github stats](https://github-readme-stats.vercel.app/api?username=Aeethon&show_icons=true&theme=dracula)
