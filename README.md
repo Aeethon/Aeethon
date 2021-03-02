@@ -8,12 +8,19 @@ Programação para mim é uma paixão, procuro sempre aprender, exercitar e me m
 Eu sou um Desenvolvedor Júnior 💻
 Meus pronomes são: Ele/Dele | My pronouns are: He/Him
 
-💙   Estou trabalhando na OlhaSP, uma empresa pequena com Leves Desenvolvimentos e estudos, de sp!
+<br>
+💙   Estou trabalhando na <strong>OlhaSP</strong>, uma empresa pequena com Leves Desenvolvimentos e estudos, de sp!
+<br>
 😃   Tenho buscado colaborar com projetos em Front-end usando React Native, para aprender e me aprofundar na stack
+<br>
 💻   Minha stack: HTML, CSS, JavaScript, jQuery, Java e sei uma coisinha ou outra de Python
+<br>
 🌱   Atualmente estou estudando Node.js, pela NextLevelWeek #04 da Rocketseat, e React Native!
+<br>
 ☕   Meus estudos são mais hands on do que leitura, mas eu acabo vendo muitos vídeos antes de começar alguma coisa
+<br>
 💬   Sobre mim: Curto tecnologias, animes, games, seriados no Netflix, andar de moto para relaxar, e muita, muita, música!
+<br>
 📫   Você pode me achar por aqui:
 
 
