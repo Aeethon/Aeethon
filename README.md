@@ -18,8 +18,7 @@ Meus pronomes são: Ele/Dele | My pronouns are: He/Him
 <br>
 💬   Sobre mim: Curto tecnologias, animes, games, seriados no Netflix, andar de moto para relaxar, e muita, muita, música!
 <br>
-📫   Você pode me achar por aqui: 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Aeethon)](https://github.com/Aeethon)  
+📫   Você pode me achar por aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelarlindo/)](https://www.linkedin.com/in/miguelarlindo//)
 
