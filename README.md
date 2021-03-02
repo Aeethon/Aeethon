@@ -18,12 +18,6 @@ Meus pronomes são: Ele/Dele | My pronouns are: He/Him
 
 
 ![Altsaber github stats](https://github-readme-stats.vercel.app/api?username=Aeethon&show_icons=true&theme=dracula)
-
-
-
-
-### Most used languages :gem:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeethon&layout=Demo&theme=dracula)](https://github.com/Aeethon)
 
 
