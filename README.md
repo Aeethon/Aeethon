@@ -16,7 +16,7 @@ Meus pronomes são: Ele/Dele | My pronouns are: He/Him
 <br>
 ☕   Meus estudos são mais hands on do que leitura, mas eu acabo vendo muitos vídeos antes de começar alguma coisa
 <br>
-💬   Sobre mim: Curto tecnologias, animes, games, seriados no Netflix, andar de moto para relaxar, e muita, muita, música!
+💬   Sobre mim: Curto tecnologias, animes, games, seriados no Netflix, programar algo interessante pra relaxar, e muita, muita, música!
 <br>
 📫   Você pode me achar por aqui:
 
