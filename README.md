@@ -3,7 +3,6 @@
 E aí, bão? 👋🏻
 Programação para mim é uma paixão, procuro sempre aprender, exercitar e me manter atualizado com o que chama minha atenção!
 Eu sou um Desenvolvedor Júnior 💻
-Meus pronomes são: Ele/Dele | My pronouns are: He/Him
 
 <br>
 💙   Estou trabalhando na <strong>OlhaSP</strong>, uma empresa pequena com Leves Desenvolvimentos e estudos, de sp!
