@@ -18,16 +18,7 @@ Eu sou um Desenvolvedor Júnior 💻
 💬   Sobre mim: Curto tecnologias, animes, games, seriados no Netflix, programar algo interessante pra relaxar, e muita, muita, música!
 <br>
 📫   Você pode me achar por aqui:
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelarlindo/)](https://www.linkedin.com/in/miguelarlindo//)
-
-
-![Altsaber github stats](https://github-readme-stats.vercel.app/api?username=Aeethon&show_icons=true&theme=dracula)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeethon&layout=Demo&theme=dracula)](https://github.com/Aeethon)
-
-
 
 
 
