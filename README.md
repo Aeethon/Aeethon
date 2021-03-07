@@ -9,13 +9,11 @@ Eu sou um Desenvolvedor Júnior 💻
 <br>
 😃   Tenho buscado colaborar com projetos em Front-end usando React Native, para aprender e me aprofundar na stack
 <br>
-💻   Minha stack: HTML, CSS, JavaScript, jQuery, Java e sei uma coisinha ou outra de Python
+💻   Minha stack: HTML, CSS, JavaScript, ReactNative, Java & PHP e sei uma coisinha ou outra de Ruby
 <br>
 🌱   Atualmente estou estudando Node.js, pela NextLevelWeek #04 da Rocketseat, e React Native!
 <br>
 ☕   Meus estudos são mais hands on do que leitura, mas eu acabo vendo muitos vídeos antes de começar alguma coisa
-<br>
-💬   Sobre mim: Curto tecnologias, animes, games, seriados no Netflix, programar algo interessante pra relaxar, e muita, muita, música!
 <br>
 📫   Você pode me achar por aqui:
 
