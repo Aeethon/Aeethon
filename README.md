@@ -19,7 +19,7 @@ Eu sou um Desenvolvedor Júnior 💻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelarlindo/)](https://www.linkedin.com/in/miguelarlindo//)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeethon&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeethon&theme=dracula&show_icons=true)
 
 
 
