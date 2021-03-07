@@ -15,12 +15,11 @@ Eu sou um Desenvolvedor Júnior 💻
 <br>
 ☕   Meus estudos são mais hands on do que leitura, mas eu acabo vendo muitos vídeos antes de começar alguma coisa
 <br>
-📫   Você pode me achar por aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelarlindo/)](https://www.linkedin.com/in/miguelarlindo//)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aeethon)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aeethon)](https://github.com/Aeethon/github-readme-stats)
 
 
 
