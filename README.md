@@ -21,6 +21,9 @@ Eu sou um Desenvolvedor Júnior 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeethon&theme=dracula&show_icons=true)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aeethon)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
