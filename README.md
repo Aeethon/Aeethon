@@ -5,7 +5,7 @@ Programação para mim é uma paixão, procuro sempre aprender, exercitar e me m
 Eu sou um Desenvolvedor Júnior 💻
 
 <br>
-💙   Estou trabalhando na <strong>OlhaSP</strong>, uma empresa pequena com Leves Desenvolvimentos e estudos, de sp!
+💙   Estou trabalhando na <strong>Hiper Saldão</strong>, uma empresa de moveis e eletrodomésticos, e sou operador do sistema utilitario da empresa!!!
 <br>
 😃   Tenho buscado colaborar com projetos em Front-end usando React Native, para aprender e me aprofundar na stack
 <br>
