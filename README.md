@@ -17,9 +17,11 @@ Eu sou um Desenvolvedor Júnior 💻
 ☕   Meus estudos são mais hands on do que leitura, mas eu acabo vendo muitos vídeos antes de começar alguma coisa
 <br>
 <hr>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelarlindo/)](https://www.linkedin.com/in/miguelarlindo//)
 
 <hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeethon&theme=dracula&show_icons=true)
 
 
