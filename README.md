@@ -3,7 +3,6 @@
 E aí, bão? 👋🏻
 Programação para mim é uma paixão, procuro sempre aprender, exercitar e me manter atualizado com o que chama minha atenção!
 Eu sou um Desenvolvedor Júnior 💻
-
 <hr>
 <br>
 💙   Estou trabalhando na <strong>Hiper Saldão</strong>, uma empresa de moveis e eletrodomésticos, e sou operador do sistema utilitario da empresa!!!
