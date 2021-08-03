@@ -1,7 +1,7 @@
 ### 👋 • Olá eu sou Miguel
 
 - 👥 Eu atualmente estou aprendendo **Electron**.
-- 🌹 Eu sou um Desenvolvedor **Front-Endk**, que estuda **Desenvolvimento de Software**.
+- 🌹 Eu sou um Desenvolvedor **Front-End**, que estuda **Desenvolvimento de Software**.
 - 🎓 Pretendo fazer faculdade de **Ciência de dados** ou **Analise e desenvolvimento de sistemas**.
 
 ### 📐 • Linguagens e Ferramentas
