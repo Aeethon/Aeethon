@@ -14,7 +14,6 @@
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 
 <br/>
 
