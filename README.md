@@ -1,30 +1,23 @@
-### 👋 • Olá eu sou Miguel
-
-- 👥 Eu atualmente estou aprendendo **UI/UX Design**.
-- 🌹 Eu sou um Desenvolvedor **Front-End**.
-- 🎓 Pretendo fazer faculdade de **Design de Experiência** ou **Analise e desenvolvimento de sistemas**.
-
-### 📐 • Linguagens e Ferramentas
-
-<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
-<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
-<img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
-<img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
-<img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-
+### Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
 <br/>
 
-### 📕 • Últimos Projetos
+I'm **[Miguel Arlindo](https://www.behance.net/migueelarlindo)**, a **[Designer UI/UX & Graphic](https://www.behance.net/migueelarlindo)** A guy who likes to create and innovate with natural design without AI. I enjoy building apps, libraries, and developer tools around **[GitHub](https://www.behance.net/migueelarlindo).**
+<br/>
+<br/>
 
-<ul>
-<li>🎯 <a href="https://aeethon.github.io/devfinances/index.html">DevFinances</a></li>
-<li>🔥 <a href="https://aeethon.github.io/template-discord/">Template Discord</a></li>
-</ul>
+<img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/chip.gif" height="180" />
 
-### ⭐ • Status do Github
+- 🇧🇷 Based in **Brasil, São Paulo**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aeethon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Miguel Github Stats">
+- 👨‍💻 Working
 
-### 🔗 • Linguagens mais Usadas
+- 🛠 Building **System UI**, **Android UI**, and **visual identity** projects
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeethon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Most Languages">
+- 🙏 Jesus and Races 🏎️ 🎮
+
+- ✈️ Open to Job Opportunities and Collaborations 🍻
+
+<br />
+<br />
+
+<br clear="both"/>
